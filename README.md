@@ -9,7 +9,7 @@ install require python packages:
 ``` bash
 pip3 install -r requirements.txt
 ```
-run the your bot:
+run the bot:
 ``` bash
 python3 ./bot.py
 ```
